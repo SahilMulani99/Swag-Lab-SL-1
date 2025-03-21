@@ -24,6 +24,7 @@ the `priority` attribute in the `@Test`
 annotation to ensure sequential execution.
 
 Key Features
+
 1.Automated testing of the Swag Labs checkout
 process.
 
