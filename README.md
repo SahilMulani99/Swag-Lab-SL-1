@@ -26,15 +26,23 @@ annotation to ensure sequential execution.
 Key Features
 1.Automated testing of the Swag Labs checkout
 process.
+
 2.Use of TestNG for test management and
 prioritization.
+
 3.Integration with Selenium WebDriver for
 browser automation.
+
 4.Modular and scalable project structure.
 
 Technologies Used
+
 1.Java
+
 2.TestNG
+
 3.Selenium WebDriver
+
 4.ChromeDriver
+
 5.Eclipse IDE 
