@@ -6,15 +6,19 @@ TestNG Framework
 1.This project demonstrates automation testing
 for the Swag Labs checkout process using the
 TestNG framework.
+
 2.The project is developed in Eclipse IDE as a
 Java project and utilizes Selenium WebDriver
 with ChromeDriver for browser automation.
+
 3.The project is structured into a single package
 named `swag_lab_project_1`, which contains
 6 different classes.
+
 4.Each class represents a specific test case and
 includes a method annotated with TestNG's
 `@Test` annotation.
+
 5.The test cases are prioritized from 1 to 6 using
 the `priority` attribute in the `@Test`
 annotation to ensure sequential execution.
